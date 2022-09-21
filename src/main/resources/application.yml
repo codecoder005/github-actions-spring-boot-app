@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: github-actions-spring-boot-app
+  profiles:
+    active: dev
