@@ -46,7 +46,7 @@
 							<artifactId>lombok</artifactId>
 						</exclude>
 					</excludes>
-					<finalName>app</finalName>
+					<finalName>spring-docker-app</finalName>
 				</configuration>
 			</plugin>
 		</plugins>
